@@ -1,0 +1,7 @@
+Physical Unclonable Function circuits are important security primitives to effectively solve the security problems connected with hardware security like counterfeiting 
+and authentication applications in IoT systems. Different topologies of PUF are presented in the past and still researchers are interested in investigating the novel PUF
+topologies with better metrics and associated CRP processing circuits for intended applications
+
+ The aim of this project is to design PUF based hardware security schemes to be used for authenticating device to device interactions. Physically Un-clonable Functions
+(PUFs) are widely used in hardware security implementations as they physically define the digital footprint of the device. PUFs provide a unique identifier for the 
+hardware which could be leveraged for various purposes
